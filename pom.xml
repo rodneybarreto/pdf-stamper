@@ -4,13 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>br.gov.ce.pge</groupId>
+  <groupId>br.dev.rodneybarreto.stamper</groupId>
   <artifactId>pdf-stamper</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>pdf-stamper</name>
-  <url>https://www.pge.ce.gov.br</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -59,7 +58,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>br.gov.ce.pge.App</mainClass>
+                <mainClass>br.dev.rodneybarreto.stamper.App</mainClass>
               </manifest>
             </archive>
           </configuration>
@@ -87,7 +86,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>br.gov.ce.pge.App</mainClass>
+                <mainClass>br.dev.rodneybarreto.stamper.App</mainClass>
               </manifest>
             </archive>
             <descriptorRefs>

@@ -1,4 +1,4 @@
-package br.gov.ce.pge;
+package br.dev.rodneybarreto.stamper;
 
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Rectangle;

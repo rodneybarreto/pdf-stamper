@@ -1,4 +1,4 @@
-package br.gov.ce.pge;
+package br.dev.rodneybarreto.stamper;
 
 import static org.junit.Assert.assertTrue;
 
